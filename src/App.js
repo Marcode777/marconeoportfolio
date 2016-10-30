@@ -14,6 +14,10 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <div className="first">
+          <p>First Section</p>
+        </div>
+         <div className="second">
+          <p>Second Section</p>
         </div>
 
 
