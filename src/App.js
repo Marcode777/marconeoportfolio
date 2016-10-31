@@ -16,7 +16,10 @@ class App extends Component {
         <div className="first">
           <p>First Section</p>
         </div>
-         <div className="second">
+        <div className="second">
+          <p>Second Section</p>
+        </div>
+        <div className="third">
           <p>Second Section</p>
         </div>
 
