@@ -21,7 +21,7 @@ class App extends Component {
         </div>
         <div className="third">
           <p>third section</p>
-          <p>Portfolio</p>
+          <p>Portfolio Section</p>
         </div>
 
 
