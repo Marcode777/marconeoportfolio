@@ -1,6 +1,6 @@
 import React from 'react';
 import Display from './display';
-import Display2 from './display2';
+import Display2 from './display2'
 
 export default class App extends React.Component{
   render(){
