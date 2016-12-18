@@ -19,7 +19,7 @@ export default class Display extends React.Component{
           <h2>Display.js</h2>
         </div>
         <div style={Style2}>
-          <h2>Display.js</h2>
+          <h3>Display.js</h3>
         </div>
       </div>
 
