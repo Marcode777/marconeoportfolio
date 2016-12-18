@@ -15,12 +15,7 @@ export default class Display extends React.Component{
   render(){
     return(
       <div>
-        <div style={Style1}>
-          <h2>Display1</h2>
-        </div>
-        <div style={Style2}>
-          <h3>Display2</h3>
-        </div>
+        <h2>Display</h2>
       </div>
 
       );
