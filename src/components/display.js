@@ -9,7 +9,6 @@ export default class Display extends React.Component{
     return(
       <div style={Style1}>
         <h2>display.js</h2>
-        <h3>kolokoyz</h3>
       </div>
       );
   }
