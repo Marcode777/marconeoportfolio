@@ -1,15 +1,28 @@
 import React from 'react';
 const Style1 = {
   backgroundColor: 'red',
-  minHeight: 200
+  minHeight: 250
 }
+const Style2 = {
+  backgroundColor:'blue',
+  minHeight: 250
+}
+
+
+
 
 export default class Display extends React.Component{
   render(){
     return(
-      <div style={Style1}>
-        <h2>display.js</h2>
+      <div>
+        <div style={Style1}>
+          <h2>Display.js</h2>
+        </div>
+        <div style={Style2}>
+          <h2>Display.js</h2>
+        </div>
       </div>
+
       );
   }
 }
