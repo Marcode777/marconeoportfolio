@@ -14,10 +14,11 @@ const Style2 = {
 export default class Display extends React.Component{
   render(){
     return(
-
-      <div style={Style1}>
-        <h2>display.js</h2>
-        <div>
+      <div>
+        <div className="first" style={Style1}>
+          <h2>display.js</h2>
+        </div>
+        <div className="second" style={Style2}>
           <h3>display.js2</h3>
         </div>
       </div>
